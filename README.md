@@ -1,0 +1,2 @@
+# Retrieve Facebook Orca chat history on Android phones
+Install python and java environment on your computer, and then execute python `facebookmessager.py` to extract your chat records with out root permission
